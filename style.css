@@ -1,0 +1,113 @@
+.camera{
+    display: flex;
+}
+.jj{
+    font-size: 3em;
+}
+.q{
+    margin-left: 75px;
+}
+.cmr{
+    margin-left: 230px;
+}
+.button{
+    background-color: rgb(243, 82, 82);
+    color: seashell;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.pic{
+    margin-left: 0px;
+    padding: 30px;
+}
+.pict{
+    margin left: 440px;
+    padding: 30px;
+}
+.pictu{
+
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+  .column {
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+  }
+  
+  .row {margin: 0 -5px;}
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+.uu{
+    padding: 30px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(4, 4, 34);
+    background-size: 100% 100%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  .fa-facebook {
+    background: rgba(128, 128, 128, 0.089);
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: rgba(128, 128, 128, 0.089);
+    color: white;
+  }
+  .fa-youtube{
+      background-color: rgba(128, 128, 128, 0.089);
+      color: white;
+  }
+  p a{
+      text-decoration: none;
+      color: rgb(243, 82, 82);
+  }
+  .checked {
+    color: orange;
+  }
